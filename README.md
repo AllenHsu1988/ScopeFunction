@@ -1,2 +1,2 @@
 # ScopeFunction
-Scope functions for swift
+Scope functions for Swift
